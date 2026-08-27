@@ -1,0 +1,26 @@
+TWO REFERENCE ROLES — read them separately and do not mix them up.
+• The VIVID GREEN HATCHBACK reference is the MASTER. It defines the body geometry, the proportions, the panel lines, the wheels, the wordmark treatment and — critically — the EXACT PAINT COLOUR. Match that vivid saturated green precisely. Do not lighten it, do not wash it out, do not drift toward pale pastel mint.
+• The reference showing eyes inside the windshield supplies ONE THING ONLY: where the face sits. Take the eye placement and expression from it. Take nothing else.
+
+THE CHARACTER — an ordinary everyday Egyptian five-door hatchback: tall, upright, humble and friendly, the kind of small practical family car that is on every street in Cairo. It has a warm, kind face.
+
+EYES — large, round, expressive eyes set INSIDE THE WINDSHIELD GLASS, filling the upper portion of the windshield and looking forward down the road. Warm dark irises with clear white around them, soft eyelids. The expression is calm, kind, and very slightly weary — a car that has been around and seen a lot. The HEADLAMPS ARE ORDINARY PLAIN LAMPS with no eyes, no pupils and no face in them whatsoever.
+
+MOUTH — THE GRILLE IS THE MOUTH, AND IT IS THE ONLY MOUTH. A real recessed radiator grille sits centred low in the front bumper, built from horizontal slats in dark charcoal, and its outline curves gently upward at both corners so that the grille itself reads as a warm closed-mouth smile. It is genuine car hardware with real depth and real slats.
+CRITICAL: the bodywork BELOW the grille is completely smooth, plain and blank. There is NO second mouth, NO painted grin, NO lip, NO crease and NO smile shape moulded into the bumper underneath. Only the grille smiles. A drawn or moulded grin on smooth bumper bodywork is strictly forbidden.
+
+PAINT — completely flat matte paint in one single uniform vivid spring-green, hex #18CB96: a clearly saturated green with a slight blue-teal lean, exactly as in the master reference. Chalky and velvety. Absolutely no gloss, no metallic flake, no reflections, no specular highlights, no two-tone.
+
+WHEELS — plain five-spoke steel wheels in flat medium grey, ordinary black tyres. One design, unchanged.
+
+LAMPS — ordinary simple headlamps at the front and ordinary simple tail lamps at the rear, both clearly readable as real lamps with dark smoked charcoal lenses. They are plain hardware, never faces.
+
+BRANDING — the wordmark "140 Auto" printed small, neat and modest in warm off-white, in a clean simple sans-serif, in exactly two places: once centred on the bonnet just ahead of the windshield, and once low on each front door. Roughly the size of an ordinary car's model badge — small and quiet, never large, never a hood graphic.
+
+NUMBER PLATES — a plain blank rectangular number-plate recess sits low and centred on the front bumper, and again low and centred on the rear. Both recesses are completely EMPTY: no digits, no letters, no markings of any kind.
+
+STRICTLY FORBIDDEN — no rear wing, no spoiler, no bodykit, no side skirts, no racing stripes, no numerals, no race numbers, no flag graphics, no decals, no stickers, no emblems, no hood badge, no gloss, no metallic paint, no reflections. Apart from the small "140 Auto" wordmark there is no text, lettering or numbering anywhere in the image.
+
+RENDER — soft matte 3D animation in the style of a modern animated feature. Plain flat light grey seamless studio background, soft even ambient lighting, soft contact shadow. Simplified friendly geometry, no photorealism.
+
+VIEW: an expression sheet — the same car's FRONT three-quarter view repeated in a clean grid of four equal panels on one plain grey background. In EVERY panel the eyes are inside the windshield glass, never in the headlamps. Each panel shows a different mood carried by the windshield eyes and the curve of the grille-smile: (1) calm and neutral, (2) weary and heavy-lidded, (3) alert and attentive, (4) warm and reassuring. The body, colour, wordmark and geometry are identical in all four panels; only the eyes and the grille curve change.

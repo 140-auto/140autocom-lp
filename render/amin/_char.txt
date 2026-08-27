@@ -1,0 +1,40 @@
+NO REFERENCE IMAGES ARE SUPPLIED. Build this character entirely from the description below.
+
+THE CHARACTER — an ordinary everyday Egyptian four-door sedan: a small three-box saloon with a modest boot, tall, upright, humble and friendly, the kind of practical family car that is on every street in Cairo. It is emphatically NOT a coupe and NOT a hatchback. It has a warm, bright, happy face.
+
+EYES — large, round, expressive eyes set INSIDE THE WINDSHIELD GLASS, filling the upper portion of the windshield. Warm dark brown irises with clear white around them, soft eyelids. Both pupils look STRAIGHT AHEAD down the road, level and centred — never sideways, never glancing off to one side. The eyes are wide open and the lower eyelids lift slightly, the way a face looks when it is genuinely smiling. The expression is BRIGHT, ALERT AND CHEERFUL — an eager, optimistic, wide-awake car, pleased to be here and ready to go. Not sleepy, not weary, not sad, not wary, not uncertain. The HEADLAMPS ARE ORDINARY PLAIN LAMPS with no eyes, no pupils and no face in them whatsoever.
+
+FRONT END GEOMETRY — read this before anything else. The whole front of this car, from just under the headlamps down to the very bottom of the nose, is OCCUPIED. There is no large smooth blank painted area anywhere on the front bumper. From top to bottom the front reads: headlamps, then the grille, then immediately the number-plate recess, then the bottom edge of the car. Nothing else fits and nothing else is there.
+
+MOUTH — THE GRILLE IS THE MOUTH, AND IT IS THE ONLY MOUTH.
+The grille is BIG. It is a single large recessed opening that dominates the front of the car: it spans most of the width between the headlamps and it is tall, filling the whole vertical space from just below the headlamps down to the top of the number plate. It is not a narrow horizontal letterbox.
+Its shape is a wide CRESCENT — a banana lying on its back. The lower edge is one smooth arc that dips at the centre and sweeps UP at both ends; the upper edge follows the same arc above it. Both ends of the opening sit noticeably higher than its middle, so the opening itself reads unmistakably as a warm closed-mouth smile. Take the shape of a smiling mouth from a simple cartoon face and cut exactly that shape into the front of the car, large.
+It is a real recess with real depth, filled with horizontal slats in dark charcoal that follow the curve of the opening. The mouth is closed — no teeth, no gap, no open grin.
+
+NUMBER PLATE — a plain blank rectangular number-plate recess sits immediately below the grille, centred, and it fills the remaining height of the nose down to the bottom edge. It is completely EMPTY — no digits, no letters, no markings. A second identical blank recess sits low and centred on the rear.
+
+THE LOWER BUMPER DOES NOT EXIST AS A BLANK SURFACE. Because the grille and the number plate together occupy the entire front, there is no smooth painted region left below the grille. Consequently there is NO second mouth on this car: no smiling crease, no curved line, no moulded lip, no chrome strip, no shadow line, no seam and no dimple pressed into the paint anywhere on the nose. Cartoon cars are very often drawn with a big smile creased into a smooth bumper below the grille — this car has no such bumper and no such smile. The ONLY smile is the crescent opening of the grille itself.
+
+NO CHROME ANYWHERE — no bright metal trim, no silver lip, no chrome surround, no polished strip on the grille, the bumper, the plate or the window frames. Every trim piece is flat dark charcoal.
+
+PAINT — completely flat matte paint in one single uniform vivid spring-green, hex #18CB96: a clearly saturated green with a slight blue-teal lean. Chalky and velvety. Absolutely no gloss, no metallic flake, no reflections, no specular highlights. Never pale, never washed out, never pastel mint.
+
+SYMMETRY — the car is perfectly mirror-symmetric about its own vertical centre plane. Imagine a single line drawn down the exact middle of the car from the tip of the nose, up over the bonnet, over the roof, down the boot lid to the tail. Everything on the left of that line mirrors everything on the right.
+
+CENTRE BANDS — two narrow flat WHITE bands are painted ON that centre line, straddling it: one just to the left of the line, one just to the right, equally spaced from it so the pair is itself perfectly symmetrical. The line runs BETWEEN them, down the middle of the gap.
+
+These are NOT racing stripes. They are not sporty, not angled, not offset to the driver's side, not swept, not tapered, not curved, and they do not fan apart. Do not style them like motorsport stripes. They are two plain straight painted bands sitting dead centre, of constant equal width, running straight along the length of the car in the direction it drives.
+
+Their path: they start at the front lip of the bonnet, run straight back over the bonnet, are interrupted by the windshield, resume on the roof in perfect alignment, are interrupted by the rear window, resume on the boot lid, and end at the tail. Seen from directly above they form one straight unbroken line from nose to tail.
+
+Colour and scale: flat pure matte white, no outline, no shadow, no gradient. Narrow — both bands and the gap between them together span about one fifth of the bonnet's width. They appear nowhere else on the car: not on the sides, not on the doors, not on the bumpers, not on the pillars.
+
+WHEELS — plain five-spoke steel wheels in flat medium grey, ordinary black tyres. One design, unchanged.
+
+LAMPS — ordinary simple headlamps at the front and ordinary simple tail lamps at the rear, both clearly readable as real lamps with dark smoked charcoal lenses. They are plain hardware, never faces.
+
+BRANDING — the wordmark "140 Auto" printed small, neat and modest in warm off-white, in a plain upright non-italic sans-serif (never italic, never gold, never metallic, never a script), in exactly two places: once centred on the bonnet just ahead of the windshield, and once low on each front door. Roughly the size of an ordinary car's model badge — small and quiet, never large, never a hood graphic. Where the bonnet wordmark meets the white stripes it sits clear of them, never overlapping.
+
+STRICTLY FORBIDDEN — no rear wing, no spoiler, no bodykit, no side skirts, no numerals, no race numbers, no flag graphics, no decals, no stickers, no emblems, no hood badge, no gloss, no metallic paint, no reflections, no coloured stripes of any kind other than the single white centre pair described above. Apart from the small "140 Auto" wordmark there is no text, lettering or numbering anywhere in the image.
+
+RENDER — SOFT MATTE STYLISED 3D ANIMATION, in the style of a modern animated feature film. Simplified, friendly, slightly chunky cartoon geometry. This is NOT a photoreal product visualisation and NOT a car configurator render. Every surface is flat, chalky and completely matte: no gloss, no clearcoat, no specular highlights, no reflections, no environment reflections in the glass. The side windows and windshield are flat dark glass — the interior, seats, dashboard and steering wheel are NOT visible through them. Plain flat light grey seamless studio background, soft even ambient lighting, one soft contact shadow under the car.

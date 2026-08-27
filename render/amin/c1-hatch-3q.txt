@@ -1,0 +1,15 @@
+Character design render of a friendly animated car character, in the style of a modern 3D animated feature film.
+
+BODY: an ordinary everyday Egyptian city car — a small five-door hatchback with a tall practical roofline, short overhangs, upright windows and modest proportions. The humble kind of family car that fills Cairo streets. It is emphatically NOT a sports car and NOT a coupe: no rear wing, no spoiler, no racing stripes, no side skirts, no vents, no hood scoop, no aggressive bodykit. Slightly rounded, soft, friendly forms.
+
+FACE: the character's eyes ARE the headlamps. Two large round expressive cartoon eyes are set directly into the headlight housings, low on the front of the car, one on each side of the grille. The windshield is plain flat dark glass and contains NO eyes and NO face. A gentle, calm, slightly weary expression — this car has been around. A soft subtle mouth line in the lower front bumper.
+
+PAINT: completely flat matte mint-green, one single uniform colour across the whole body. Chalky, velvety, absolutely no gloss, no metallic flake, no clearcoat, no reflections, no highlights, no two-tone, no gradient.
+
+WHEELS: plain simple five-spoke steel wheels in flat medium grey, everyday size, ordinary black tyres. Unremarkable and practical.
+
+STRICTLY FORBIDDEN: no text, no letters, no words, no numbers, no digits, no logos, no badges, no emblems, no decals, no stickers, no number plates, no racing numbers, no checkered flags, no lightning bolts. Every surface of the car is completely blank and unmarked.
+
+RENDER: plain flat light grey seamless studio background, soft even lighting, soft contact shadow beneath the car. Matte surfaces throughout. Clean and simple.
+
+VIEW: three-quarter front view from the left, camera at eye level.

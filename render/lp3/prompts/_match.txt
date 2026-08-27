@@ -1,0 +1,9 @@
+MATCH THE FIRST REFERENCE IMAGE EXACTLY — this is the single most important instruction in this prompt.
+
+The first reference image is the OPENING frame of a shot. You are rendering the CLOSING frame of that same shot, filmed by the same camera, which never moved. Reproduce its framing, camera position, camera height, camera angle, horizon line, lens and lighting exactly. Reproduce every background element in the same place at the same size: the buildings, their number and their shapes, the road, the kerbs, the paving, the palm trees, the signs, the plinths and every other parked car. Nothing in the background moves, appears, disappears, or changes colour.
+
+THERE IS EXACTLY ONE LITTLE GREEN CAR in this image — the same single car as in the reference. Do not add a second green car. Do not leave a copy of it behind in its old position. It has MOVED, so it is gone from where it was and is now only in its new position.
+
+THE ONLY THINGS THAT CHANGE are the position of that one green car and any small change explicitly described at the end of this prompt. If the description says something has been removed, taken down or opened, it must visibly be so in this frame. Change nothing else whatsoever.
+
+THE GREEN CAR HAS NOT TURNED ROUND. It is pointing in exactly the same direction as in the reference image and is seen from exactly the same side. If the reference shows it from behind, this frame shows it from behind. If the reference shows its left flank, this frame shows its left flank. If its nose points to the right, its nose still points to the right. It has driven along, so its position has changed — but it has not spun, not reversed, not swung round, and it is not now facing the other way.

@@ -1,0 +1,15 @@
+The SAME animated car character shown in the reference image. Keep its geometry, proportions, panel lines and identity EXACTLY as in the reference: a small everyday five-door hatchback with a tall practical roofline, short overhangs, upright windows, soft rounded friendly forms. No rear wing, no spoiler, no bodykit.
+
+FACE: the eyes ARE the headlamps — two round expressive eyes set into the headlight housings low on the front of the car, with the same calm, slightly weary, heavy-lidded expression as the reference. The windshield is plain dark glass with NO eyes and NO face in it. A soft subtle mouth line in the lower front bumper.
+
+PAINT — CORRECT THE COLOUR: completely flat matte paint in one single uniform vivid spring-green, hex #18CB96. A clearly saturated green with a slight blue-teal lean — noticeably more vivid and more saturated than the pale pastel mint in the reference. Chalky and velvety, absolutely no gloss, no metallic flake, no reflections, no highlights, no two-tone.
+
+WHEELS: the same plain five-spoke steel wheels in flat medium grey, ordinary black tyres.
+
+ODOMETER HOUSING: a small blank dark rectangular instrument panel sits low behind the windshield glass, centred. It is completely blank — no digits, no numbers, no markings of any kind on it.
+
+STRICTLY FORBIDDEN: no text, no letters, no words, no numbers, no digits, no logos, no badges, no emblems, no decals, no stickers, no number plates. Every surface of the car is completely blank and unmarked.
+
+RENDER: plain flat light grey seamless studio background, soft even lighting, soft contact shadow. Matte surfaces throughout.
+
+VIEW: direct left side profile elevation. The camera is exactly side-on, the whole car flat and parallel to the frame, no perspective.

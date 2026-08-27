@@ -1,0 +1,1 @@
+VIEW: dead-overhead orthographic plan view, camera directly above the centre of the car looking straight down, no perspective. The full roof, bonnet and boot lid are visible as one flat shape. The white centre stripes are seen along their entire length from nose to tail and their placement relative to the car's centreline is unambiguous.

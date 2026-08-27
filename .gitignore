@@ -1,0 +1,65 @@
+# dependencies
+/node_modules
+.pnp
+.pnp.*
+
+# next
+/.next/
+/out/
+/build
+next-env.d.ts
+*.tsbuildinfo
+
+# environment — this repo needs none at runtime (next.config.ts: "no DB, no
+# S3"), and scripts/snapshot-listings.mjs reads the SIBLING production app's
+# .env.local, which lives outside this tree. Belt and braces anyway.
+.env
+.env.*
+!.env.example
+
+# hosting
+.vercel
+
+# local tool state, not project state
+/.claude/
+/.impeccable/
+/.playwright-mcp/
+/.firecrawl/
+/.vscode/
+
+# os / editor
+.DS_Store
+*.pem
+*-debug.log*
+
+# ---------------------------------------------------------------------------
+# Render intermediates.
+#
+# `render/` is ~420MB of 2k PNGs, job JSON and error logs — the OUTPUT of the
+# image and video pipeline. The PROMPTS beside them are the reproducible source
+# and are tracked: .txt, .pair, .refs and .frames total about 560KB, and with
+# scripts/ they are what actually regenerates the film. The frames that ship are
+# the packed webp and mp4 under public/lp/, which are tracked.
+#
+# Ignoring by extension rather than by path so a new beat's prompts are tracked
+# automatically and its renders are not.
+# ---------------------------------------------------------------------------
+/render/**/*.png
+/render/**/*.jpg
+/render/**/*.jpeg
+/render/**/*.webp
+/render/**/*.mp4
+/render/**/*.json
+/render/**/*.err
+
+# Review contact sheets are generated from public/lp — the notes beside them
+# are not, so those stay.
+/review/**/*.png
+/review/**/*.jpg
+/review/**/*.jpeg
+/lp4-hero.png
+
+# lp-concepts §1.2: "The one asset in brand-assets/amin/ that reproduces his
+# race number and bolt outright is quarantined and passed to no generator."
+# Quarantined means quarantined — it is not committed either.
+/brand-assets/amin/reject-mcqueen-95-lightning.jpeg
